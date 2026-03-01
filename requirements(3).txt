@@ -1,7 +1,8 @@
 streamlit
 pandas
 numpy
-matplotlib
+matplotlib.pyplot as plt
 scikit-learn
 statsmodels
 openpyxl
+
